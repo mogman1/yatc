@@ -1,4 +1,4 @@
-# yatc
+# TETRIS
 Yet Another Tetris Clone
 
 ###Game Mechanics
